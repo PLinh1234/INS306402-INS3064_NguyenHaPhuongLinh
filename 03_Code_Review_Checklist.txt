@@ -1,0 +1,17 @@
+CODE REVIEW CHECKLIST – INS3064
+
+File has .php extension and correct location        2/2
+PHP opening tag (<?php) present                     2/2
+PHP closing tag (?>) present                        2/2
+Variable assignments for name, student ID,
+class, and email present                            3/3
+At least 4 echo statements displaying variables     3/3
+date() function used to display current date        2/2
+date() function used to display current time        2/2
+At least one comment line (// or /* */)              2/2
+All statements end with semicolons                  3/3
+Readable code with proper indentation               2/2
+No PHP errors when running in browser               3/3
+Output displays professional appearance             3/3
+
+TOTAL SCORE                                         30/30
